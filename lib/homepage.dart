@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
                currentAccountPicture: GestureDetector(
                   child: CircleAvatar(
                 child: Text(
-                  "AM",
+                  "DM",
                   style: TextStyle(
                       color: Colors.pink,
                       fontSize: 20.0,
